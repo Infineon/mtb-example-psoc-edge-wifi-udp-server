@@ -8,7 +8,7 @@ This code example has a three project structure: CM33 secure, CM33 non-secure, a
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-psoc-edge-wifi-udp-server)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzk1MjAiLCJTcGVjIE51bWJlciI6IjAwMi0zOTUyMCIsIkRvYyBUaXRsZSI6IlBTT0MmdHJhZGU7IEVkZ2UgTUNVOiBXaS1GaSBVRFAgU2VydmVyIiwicmlkIjoic2FyYXZhbmFrdW1hIiwiRG9jIHZlcnNpb24iOiIyLjAuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiUFNPQyJ9)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzk1MjAiLCJTcGVjIE51bWJlciI6IjAwMi0zOTUyMCIsIkRvYyBUaXRsZSI6IlBTT0MmdHJhZGU7IEVkZ2UgTUNVOiBXaS1GaSBVRFAgU2VydmVyIiwicmlkIjoic2FyYXZhbmFrdW1hIiwiRG9jIHZlcnNpb24iOiIyLjEuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiUFNPQyJ9)
 
 See the [Design and implementation](docs/design_and_implementation.md) for the functional description of this code example.
 
@@ -73,9 +73,9 @@ See [Using the code example](docs/using_the_code_example.md) for instructions on
 
 4. After programming, the application starts automatically. Confirm that the following text as shown in **Figure 1** is displayed on the UART terminal. Note that Wi-Fi SSID and the IP address assigned will be different based on the network that you have connected to
 
-     **Figure 1. UART terminal showing the Wi-Fi connectivity status**
+   **Figure 1. UART terminal showing the Wi-Fi connectivity status**
 
-     ![](images/uart-terminal-output.png)
+   ![](images/uart-terminal-output.png)
 
 5. Ensure that your computer is connected to the same Wi-Fi access point that you have configured in **Step 3**. Make a note of the IP address assigned to the kit as shown in **Figure 1**
 
@@ -132,6 +132,7 @@ Document title: *CE239520* – *PSOC&trade; Edge MCU: Wi-Fi UDP Server*
  ------- | ---------------------
  1.x.0   | New code example <br> Early access release
  2.0.0   | GitHub release 
+ 2.1.0   | Updated README
 <br>
 
 
